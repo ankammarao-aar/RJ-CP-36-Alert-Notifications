@@ -1,0 +1,74 @@
+.bg-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  font-family: 'Roboto';
+  color: #0f172a;
+}
+
+.success-icon {
+  font-size: 22px;
+  color: #2dca73;
+  height: 28px;
+  margin-right: 22px;
+}
+
+.success {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #2dca73;
+  margin: 0px;
+}
+
+.text {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #64748b;
+}
+
+.error-icon {
+  font-size: 22px;
+  color: #ff0b37;
+  height: 28px;
+  margin-right: 22px;
+}
+
+.error {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #ff0b37;
+  margin: 0px;
+}
+
+.warning-icon {
+  font-size: 22px;
+  color: #ffb800;
+  height: 28px;
+  margin-right: 22px;
+}
+
+.warning {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #ffb800;
+  margin: 0px;
+}
+
+.info-icon {
+  font-size: 22px;
+  color: #0f81e0;
+  height: 28px;
+  margin-right: 22px;
+}
+
+.info {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #0f81e0;
+  margin: 0px;
+}
